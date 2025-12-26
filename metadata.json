@@ -1,0 +1,7 @@
+{
+  "name": "Fresh Connect",
+  "description": "A private connection platform for new college students to find peers and housing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
